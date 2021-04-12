@@ -1,0 +1,90 @@
+#Z{
+    background-image: url("./inspiration-geometry.png");
+    background-color: rgb(49, 92, 211);
+}
+#A{
+    display: flex;
+    padding: 20px;
+    margin: 30px;
+    flex-direction: column;
+
+    
+}
+#H{
+    text-align: center;
+    color: white;
+}
+#ca{
+    text-align: left;
+}
+#cb{
+    display: flex;
+    flex-direction: column;
+}
+#sub{
+  width: 15%;
+}
+#out{
+    display: flex;
+    gap:50px;
+    margin: 20px;
+    padding: 20px;
+}
+.o{
+    display: flex;
+    flex-direction: row;
+}
+#f{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.o{
+    color: white;
+    font-size: 150%;
+    
+}
+#s{
+   border-radius:30px;
+   height: 50px;
+}
+#sub{
+    border-radius: 30px;
+    height: 40px;
+}
+#out{
+    display: flex;
+    justify-content: center;
+}
+#vowels{
+    background-color: rgba(247, 60, 14, 0.966);
+    border-radius: 30px;
+    width:15%;
+    height: 10%;
+    justify-content: center;
+    font-size: 95%;
+}
+#d{
+    background-color: rgba(247, 60, 14, 0.966);
+    border-radius: 30px;
+    width:15%;
+    height: 10%;
+    font-size: 95%;
+    justify-content: center;
+}
+#spe{
+    background-color: rgba(247, 60, 14, 0.966);
+    border-radius: 30px;
+    width:15%;
+    height: 10%;
+    justify-content: center;
+    font-size: 95%;
+}
+#con{
+    justify-content: center;
+    font-size: 95%;
+}
+#sp{
+    justify-content: center;
+    font-size: 95%;
+}
